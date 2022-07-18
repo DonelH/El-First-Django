@@ -1,4 +1,7 @@
 # El-First-Django
+
+NOTE: MORE COMPLETE VERSION HERE - https://gitlab.com/eldon.hayes.eh/El-First-Django
+
 First Django project based on the existing Django tutorial project at https://docs.djangoproject.com/en/4.0/intro/tutorial01/
 
 As according to the tutorial, this app is a simple poll application with two different aspects to it:
